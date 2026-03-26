@@ -5,12 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/user/Documents/Unreal Projects/2022184025/LAB03_2022184025/Content/ElevatorMap2022184025.umap",
-				"C:/Users/user/Documents/Unreal Projects/2022184025/LAB03_2022184025/Content/Blueprints/FloatingComponent.uasset",
-				"C:/Users/user/Documents/Unreal Projects/2022184025/LAB03_2022184025/Content/LevelPrototyping/Meshes/BP_FloatingElevator.uasset",
-				"C:/Users/user/Documents/Unreal Projects/2022184025/LAB03_2022184025/Content/Blueprints/BP_FloatingElevator.uasset",
-				"C:/Users/user/Documents/Unreal Projects/2022184025/LAB03_2022184025/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
-				"C:/Users/user/Documents/Unreal Projects/2022184025/LAB03_2022184025/Content/Blueprints/BP_GlassFloor.uasset"
+				"C:/Users/user/Documents/Unreal Projects/2022184025-GameEngine/LAB03_2022184025/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/Users/user/Documents/Unreal Projects/2022184025-GameEngine/LAB03_2022184025/Content/Maps/NewMap.umap",
+				"C:/Users/user/Documents/Unreal Projects/2022184025-GameEngine/LAB03_2022184025/Content/Blueprints/SM_GlassFloor.uasset",
+				"C:/Users/user/Documents/Unreal Projects/2022184025-GameEngine/LAB03_2022184025/Content/Blueprints/BP_GlassStairs.uasset"
 			]
 		}
 	]
