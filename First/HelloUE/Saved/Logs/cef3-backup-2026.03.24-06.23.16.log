@@ -1,0 +1,11 @@
+[22896:9076:0324/152313.278:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[22896:9468:0324/152313.310:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[22896:9076:0324/152313.327:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[22896:9076:0324/152315.602:WARNING:alloy_constrained_window_views_client.cc(77)] No likely focused browser
+[22896:9076:0324/152315.615:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[22096:12864:0324/152315.927:WARNING:backend_impl.cc(1543)] Messed up entry found.
+[22096:12864:0324/152315.927:ERROR:backend_impl.cc(989)] Critical error found -8
+[22096:12864:0324/152316.152:WARNING:storage_block-inl.h(138)] Failed data load.
+[22096:12864:0324/152316.152:WARNING:storage_block-inl.h(138)] Failed data load.
+[22096:12864:0324/152316.152:ERROR:entry_impl.cc(955)] Failed to save user data
+[3044:11332:0324/152316.481:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-687E2A301640BC3FCE783EA121C86DEA will be ignored
