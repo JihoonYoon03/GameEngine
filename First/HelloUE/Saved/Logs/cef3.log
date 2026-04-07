@@ -1,12 +1,12 @@
-[35364:34900:0402/225039.484:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[35364:15556:0402/225039.526:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[35364:34900:0402/225039.535:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[35364:21272:0402/225041.228:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\wlgns\Documents\Github\GameEngine\First\HelloUE\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\wlgns\Documents\Github\GameEngine\First\HelloUE\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[35364:21272:0402/225041.233:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\wlgns\Documents\Github\GameEngine\First\HelloUE\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\wlgns\Documents\Github\GameEngine\First\HelloUE\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[35364:21272:0402/225041.237:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\wlgns\Documents\Github\GameEngine\First\HelloUE\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\wlgns\Documents\Github\GameEngine\First\HelloUE\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[35364:21272:0402/225041.240:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\wlgns\Documents\Github\GameEngine\First\HelloUE\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\wlgns\Documents\Github\GameEngine\First\HelloUE\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[35364:33740:0402/225041.466:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[35364:33740:0402/225041.468:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[11520:5280:0402/225043.250:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-081667ADE9B99B4782F01D6F203375C7 will be ignored
-[35364:13372:0402/225045.440:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\wlgns\Documents\Github\GameEngine\First\HelloUE\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\wlgns\Documents\Github\GameEngine\First\HelloUE\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[35364:34900:0402/233650.601:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[21148:22348:0407/152548.269:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[21148:22348:0407/152548.280:ERROR:os_crypt_win.cc(100)] Failed to decrypt: 키를 지정된 상태에서 사용하기에 부적합합니다. (0x8009000B)
+[21148:17124:0407/152548.301:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[21148:22348:0407/152548.318:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[21148:22348:0407/152550.274:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[4100:17744:0407/152551.965:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-C583DE8D88BEB7344D6A430F32E58C37 will be ignored
+[21148:22348:0407/155333.491:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[21148:22348:0407/155333.495:WARNING:sad_tab.cc(255)] Tab Killed: https://editor.unrealengine.com/
+[21148:22348:0407/155333.563:ERROR:gpu_process_host.cc(1007)] GPU process exited unexpectedly: exit_code=1
+[21148:22348:0407/155333.563:WARNING:gpu_process_host.cc(1441)] The GPU process has crashed 1 time(s)
+[21148:22348:0407/155333.763:WARNING:gpu_process_host.cc(1029)] Reinitialized the GPU process after a crash. The reported initialization time was 158 ms
+[21148:22348:0407/171956.942:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
