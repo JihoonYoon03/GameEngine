@@ -1,0 +1,37 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/wlgns/Documents/Unreal Projects/ExamPrac3/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/wlgns/Documents/Unreal Projects/ExamPrac3/Content/Map.umap",
+				"C:/Users/wlgns/Documents/Unreal Projects/ExamPrac3/Content/Assets/SM_Aircraft.uasset",
+				"C:/Users/wlgns/Documents/Unreal Projects/ExamPrac3/Content/Assets/SM_Ring5m.uasset",
+				"C:/Users/wlgns/Documents/Unreal Projects/ExamPrac3/Content/Assets/SM_Plate5m.uasset",
+				"C:/Users/wlgns/Documents/Unreal Projects/ExamPrac3/Content/Assets/Cylinder_D12E2A05.uasset",
+				"C:/Users/wlgns/Documents/Unreal Projects/ExamPrac3/Content/Assets/SM_Coin.uasset",
+				"C:/Users/wlgns/Documents/Unreal Projects/ExamPrac3/Content/Frameworks/IA_MoveAircraft.uasset",
+				"C:/Users/wlgns/Documents/Unreal Projects/ExamPrac3/Content/Frameworks/IA_RotateAircraft.uasset",
+				"C:/Users/wlgns/Documents/Unreal Projects/ExamPrac3/Content/Frameworks/IMC_Aircraft.uasset",
+				"C:/Users/wlgns/Documents/Unreal Projects/ExamPrac3/Content/Frameworks/GameModeAircraft.uasset",
+				"C:/Users/wlgns/Documents/Unreal Projects/ExamPrac3/Content/Frameworks/AircraftController.uasset",
+				"C:/Users/wlgns/Documents/Unreal Projects/ExamPrac3/Content/Frameworks/Aircraft.uasset",
+				"C:/Users/wlgns/Documents/Unreal Projects/ExamPrac3/Content/Frameworks/AircraftGameMode.uasset",
+				"C:/Users/wlgns/Documents/Unreal Projects/ExamPrac3/Content/Blueprints/BP_Aircraft.uasset",
+				"C:/Users/wlgns/Documents/Unreal Projects/ExamPrac3/Content/Blueprints/BP_Course.uasset",
+				"C:/Users/wlgns/Documents/Unreal Projects/ExamPrac3/Content/Frameworks/WBP_UI.uasset",
+				"C:/Users/wlgns/Documents/Unreal Projects/ExamPrac3/Content/Blueprints/BP_Coin.uasset",
+				"C:/Users/wlgns/Documents/Unreal Projects/ExamPrac3/Content/Blueprints/FloatingObject.uasset",
+				"C:/Users/wlgns/Documents/Unreal Projects/ExamPrac3/Content/Blueprints/FloatingComponent.uasset",
+				"C:/Users/wlgns/Documents/Unreal Projects/ExamPrac3/Content/Assets/P_Steam_Lit.uasset",
+				"C:/Users/wlgns/Documents/Unreal Projects/ExamPrac3/Content/Assets/P_AircraftStream.uasset",
+				"C:/Users/wlgns/Documents/Unreal Projects/ExamPrac3/Content/Assets/CoinExplosion_Cue.uasset",
+				"C:/Users/wlgns/Documents/Unreal Projects/ExamPrac3/Content/Assets/P_AfterBurner.uasset",
+				"C:/Users/wlgns/Documents/Unreal Projects/ExamPrac3/Content/Assets/Fire01_Cue.uasset",
+				"C:/Users/wlgns/Documents/Unreal Projects/ExamPrac3/Content/Assets/AfterBurner_Cue.uasset"
+			]
+		}
+	]
+}
