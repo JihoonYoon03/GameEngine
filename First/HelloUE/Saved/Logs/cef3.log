@@ -1,18 +1,10 @@
-[9788:464:0416/112731.467:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[9788:40536:0416/112731.523:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[9788:464:0416/112731.544:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[9788:24580:0416/112733.920:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\wlgns\Documents\Github\GameEngine\First\HelloUE\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\wlgns\Documents\Github\GameEngine\First\HelloUE\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[9788:24580:0416/112733.925:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\wlgns\Documents\Github\GameEngine\First\HelloUE\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\wlgns\Documents\Github\GameEngine\First\HelloUE\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[9788:24580:0416/112733.929:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\wlgns\Documents\Github\GameEngine\First\HelloUE\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\wlgns\Documents\Github\GameEngine\First\HelloUE\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[9788:24580:0416/112733.933:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\wlgns\Documents\Github\GameEngine\First\HelloUE\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\wlgns\Documents\Github\GameEngine\First\HelloUE\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[9788:10096:0416/112734.194:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[9788:10096:0416/112734.196:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[35532:10264:0416/112735.608:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-90EDE986B61DCEE6B77B65A67133BF5F will be ignored
-[9788:41976:0416/112736.943:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
-[9788:464:0416/112737.271:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[9788:464:0416/112737.271:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[9788:464:0416/112737.273:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[9788:464:0416/112737.273:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[9788:41976:0416/112737.278:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[9788:26952:0416/112739.041:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\wlgns\Documents\Github\GameEngine\First\HelloUE\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\wlgns\Documents\Github\GameEngine\First\HelloUE\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[9788:464:0416/125200.863:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[14520:8460:0421/152640.237:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[14520:8460:0421/152640.249:ERROR:os_crypt_win.cc(100)] Failed to decrypt: 키를 지정된 상태에서 사용하기에 부적합합니다. (0x8009000B)
+[14520:9488:0421/152640.269:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[14520:8460:0421/152640.286:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[14520:8460:0421/152642.250:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[11960:20588:0421/152642.748:ERROR:backend_impl.cc(989)] Critical error found -8
+[11960:20588:0421/152642.749:ERROR:entry_impl.cc(1029)] No file for b2020024
+[11960:20588:0421/152642.749:WARNING:storage_block-inl.h(138)] Failed data load.
+[14252:20348:0421/152643.946:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-A02534956F07F70A76EFA45FCD9B8CE9 will be ignored
+[14520:8460:0421/165211.230:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
