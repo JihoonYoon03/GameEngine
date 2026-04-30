@@ -1,3 +1,9 @@
+<<<<<<< Updated upstream
 2026/04/29-00:22:37.471 3600 Reusing MANIFEST C:\Users\wlgns\Documents\Github\GameEngine\First\HelloUE\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
 2026/04/29-00:22:37.479 3600 Recovering log #9
 2026/04/29-00:22:37.479 3600 Reusing old log C:\Users\wlgns\Documents\Github\GameEngine\First\HelloUE\Saved\webcache_6613\Default\Site Characteristics Database/000009.log 
+=======
+2026/04/30-10:20:09.389 1c94 Reusing MANIFEST C:\Users\user\Documents\Unreal Projects\2022184025-GameEngine\First\HelloUE\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
+2026/04/30-10:20:09.390 1c94 Recovering log #9
+2026/04/30-10:20:09.390 1c94 Reusing old log C:\Users\user\Documents\Unreal Projects\2022184025-GameEngine\First\HelloUE\Saved\webcache_6613\Default\Site Characteristics Database/000009.log 
+>>>>>>> Stashed changes
