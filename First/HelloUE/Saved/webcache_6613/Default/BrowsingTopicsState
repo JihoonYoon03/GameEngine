@@ -1,5 +1,15 @@
 {
    "epochs": [ {
+<<<<<<< Updated upstream
+=======
+      "calculation_time": "13420016883148454",
+      "config_version": 0,
+      "model_version": "0",
+      "padded_top_topics_start_index": 0,
+      "taxonomy_version": 0,
+      "top_topics_and_observing_domains": [  ]
+   }, {
+>>>>>>> Stashed changes
       "calculation_time": "13420644666618508",
       "config_version": 0,
       "model_version": "0",
@@ -14,6 +24,7 @@
       "taxonomy_version": 0,
       "top_topics_and_observing_domains": [  ]
    }, {
+<<<<<<< Updated upstream
       "calculation_time": "13421985614702262",
       "config_version": 0,
       "model_version": "0",
@@ -22,6 +33,9 @@
       "top_topics_and_observing_domains": [  ]
    }, {
       "calculation_time": "13422590414704550",
+=======
+      "calculation_time": "13422445868911831",
+>>>>>>> Stashed changes
       "config_version": 0,
       "model_version": "0",
       "padded_top_topics_start_index": 0,
@@ -29,5 +43,9 @@
       "top_topics_and_observing_domains": [  ]
    } ],
    "hex_encoded_hmac_key": "21520BB10DD62660076BC84C429919299F71B0FD33A1E4283709407F25EF87FE",
+<<<<<<< Updated upstream
    "next_scheduled_calculation_time": "13423195214704670"
+=======
+   "next_scheduled_calculation_time": "13423050668914315"
+>>>>>>> Stashed changes
 }

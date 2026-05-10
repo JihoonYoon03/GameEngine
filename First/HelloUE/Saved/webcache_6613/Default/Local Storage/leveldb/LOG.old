@@ -1,3 +1,9 @@
+<<<<<<< Updated upstream
 2026/05/07-09:27:29.149 bd4 Reusing MANIFEST C:\Users\user\Documents\Unreal Projects\2022184025-GameEngine\First\HelloUE\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
 2026/05/07-09:27:29.154 bd4 Recovering log #3
 2026/05/07-09:27:29.156 bd4 Reusing old log C:\Users\user\Documents\Unreal Projects\2022184025-GameEngine\First\HelloUE\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+=======
+2026/05/05-18:11:00.460 9658 Reusing MANIFEST C:\Users\wlgns\Documents\Github\GameEngine\First\HelloUE\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/05-18:11:00.470 9658 Recovering log #3
+2026/05/05-18:11:00.473 9658 Reusing old log C:\Users\wlgns\Documents\Github\GameEngine\First\HelloUE\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+>>>>>>> Stashed changes
