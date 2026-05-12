@@ -1,8 +1,2 @@
-2026/05/10-15:43:28.033 8224 Reusing MANIFEST C:\Users\wlgns\Documents\Github\GameEngine\First\HelloUE\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/05/10-15:43:28.038 8224 Recovering log #3
-2026/05/10-15:43:28.038 8224 Level-0 table #3: started
-2026/05/10-15:43:28.045 8224 Level-0 table #3: 61501 bytes OK
-2026/05/10-15:43:28.046 8224 Recovering log #4
-2026/05/10-15:43:28.049 8224 Reusing old log C:\Users\wlgns\Documents\Github\GameEngine\First\HelloUE\Saved\webcache_6613\Default\Local Storage\leveldb/000004.log 
-2026/05/10-15:43:28.052 8224 Delete type=0 #3
-2026/05/10-15:43:28.052 8224 Delete type=2 #5
+2026/05/12-16:31:52.964 4390 Creating DB C:\Users\user\Documents\GitHub\GameEngine\First\HelloUE\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
+2026/05/12-16:31:53.018 4390 Reusing MANIFEST C:\Users\user\Documents\GitHub\GameEngine\First\HelloUE\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
