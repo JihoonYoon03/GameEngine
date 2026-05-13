@@ -1,2 +1,3 @@
-2026/05/10-22:56:04.854 5460 Creating DB C:\Users\wlgns\Downloads\Test2Starter\Saved\webcache_6613\Default\Sync Data\LevelDB since it was missing.
-2026/05/10-22:56:04.885 5460 Reusing MANIFEST C:\Users\wlgns\Downloads\Test2Starter\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/05/13-23:44:44.490 3bc4 Reusing MANIFEST C:\Users\wlgns\Documents\Github\GameEngine\ExamPracZombie2\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/05/13-23:44:44.493 3bc4 Recovering log #3
+2026/05/13-23:44:44.494 3bc4 Reusing old log C:\Users\wlgns\Documents\Github\GameEngine\ExamPracZombie2\Saved\webcache_6613\Default\Sync Data\LevelDB/000003.log 
