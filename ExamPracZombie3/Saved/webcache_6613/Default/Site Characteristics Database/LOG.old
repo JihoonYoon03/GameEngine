@@ -1,5 +1,6 @@
-2026/05/13-23:56:01.194 84f8 Log #3: 2 ops saved to Table #4 OK
-2026/05/13-23:56:01.199 84f8 Archiving C:\Users\wlgns\Documents\Github\GameEngine\ExamPracZombie3\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
-2026/05/13-23:56:01.199 84f8 Table #4: 2 entries OK
-2026/05/13-23:56:01.201 84f8 Archiving C:\Users\wlgns\Documents\Github\GameEngine\ExamPracZombie3\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/05/13-23:56:01.214 84f8 **** Repaired leveldb C:\Users\wlgns\Documents\Github\GameEngine\ExamPracZombie3\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 179 bytes. Some data may have been lost. ****
+2026/05/14-09:26:08.322 3184 Log #6: 1 ops saved to Table #7 OK
+2026/05/14-09:26:08.323 3184 Archiving C:\Users\user\Documents\Unreal Projects\2022184025-GameEngine\ExamPracZombie3\Saved\webcache_6613\Default\Site Characteristics Database/000006.log: OK
+2026/05/14-09:26:08.323 3184 Table #4: 2 entries OK
+2026/05/14-09:26:08.323 3184 Table #7: 1 entries OK
+2026/05/14-09:26:08.324 3184 Archiving C:\Users\user\Documents\Unreal Projects\2022184025-GameEngine\ExamPracZombie3\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/05/14-09:26:08.326 3184 **** Repaired leveldb C:\Users\user\Documents\Unreal Projects\2022184025-GameEngine\ExamPracZombie3\Saved\webcache_6613\Default\Site Characteristics Database; recovered 2 files; 341 bytes. Some data may have been lost. ****

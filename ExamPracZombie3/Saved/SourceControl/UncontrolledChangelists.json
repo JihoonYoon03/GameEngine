@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/user/Documents/Unreal Projects/2022184025-GameEngine/ExamPracZombie3/Content/Starter/Assets/Granny/Animations/ShootingMontage.uasset",
 				"C:/Users/wlgns/Documents/Github/GameEngine/ExamPracZombie3/Content/Starter/StarterMap.umap",
 				"C:/Users/wlgns/Documents/Github/GameEngine/ExamPracZombie3/Content/Starter/Blueprints/ZombieGameMode.uasset",
 				"C:/Users/wlgns/Documents/Github/GameEngine/ExamPracZombie3/Content/Starter/Blueprints/WBP_Clear.uasset",
