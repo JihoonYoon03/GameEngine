@@ -1,0 +1,52 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/wlgns/Documents/Github/GameEngine/ExamPracNight/Content/_TEST3/Granny.uasset",
+				"C:/Users/wlgns/Documents/Github/GameEngine/ExamPracNight/Content/_TEST3/ML_Ground_Grass.uasset",
+				"C:/Users/wlgns/Documents/Github/GameEngine/ExamPracNight/Content/_TEST3/CharacterAnimationMontageMap.umap",
+				"C:/Users/wlgns/Documents/Github/GameEngine/ExamPracNight/Content/_TEST3/Landscape/ML_Ground_Grass.uasset",
+				"C:/Users/wlgns/Documents/Github/GameEngine/ExamPracNight/Content/_TEST3/Landscape/GT_Meadow.uasset",
+				"C:/Users/wlgns/Documents/Github/GameEngine/ExamPracNight/Content/_TEST3/Landscape/Grass_LayerInfo.uasset",
+				"C:/Users/wlgns/Documents/Github/GameEngine/ExamPracNight/Content/_TEST3/M_NightSky.uasset",
+				"C:/Users/wlgns/Documents/Github/GameEngine/ExamPracNight/Content/Characters/Granny/Mesh/Sporty_Granny_Skeleton.uasset",
+				"C:/Users/wlgns/Documents/Github/GameEngine/ExamPracNight/Content/_TEST3/M_Flashlight.uasset",
+				"C:/Users/wlgns/Documents/Github/GameEngine/ExamPracNight/Content/_TEST3/Flashlight.uasset",
+				"C:/Users/wlgns/Documents/Github/GameEngine/ExamPracNight/Content/Characters/Granny/Animations/GrannyFlash.uasset",
+				"C:/Users/wlgns/Documents/Github/GameEngine/ExamPracNight/Content/_TEST3/GrannyAnimation.uasset",
+				"C:/Users/wlgns/Documents/Github/GameEngine/ExamPracNight/Content/_TEST3/BP_Ball.uasset",
+				"C:/Users/wlgns/Documents/Github/GameEngine/ExamPracNight/Content/_TEST3/M_Iceball.uasset",
+				"C:/Users/wlgns/Documents/Github/GameEngine/ExamPracNight/Content/_TEST3/StickableInterface.uasset",
+				"C:/Users/wlgns/Documents/Github/GameEngine/ExamPracNight/Content/Characters/Granny/Animations/GrannyMontage.uasset",
+				"C:/Users/wlgns/Documents/Github/GameEngine/ExamPracNight/Content/Characters/Granny/Mesh/Sporty_Granny.uasset",
+				"C:/Users/wlgns/Documents/Github/GameEngine/ExamPracNight/Content/_TEST3/M_TextUnlit.uasset",
+				"C:/Users/wlgns/Documents/Github/GameEngine/ExamPracNight/Content/_TEST3/DT_Frozen.uasset",
+				"C:/Users/wlgns/Documents/Github/GameEngine/ExamPracNight/Content/Characters/Zombie/Animations/BS_Zombie.uasset",
+				"C:/Users/wlgns/Documents/Github/GameEngine/ExamPracNight/Content/Characters/Zombie/Animations/ZombieDeath.uasset",
+				"C:/Users/wlgns/Documents/Github/GameEngine/ExamPracNight/Content/Characters/Zombie/Animations/Slash.uasset",
+				"C:/Users/wlgns/Documents/Github/GameEngine/ExamPracNight/Content/Characters/Zombie/Animations/ZombieSlash.uasset",
+				"C:/Users/wlgns/Documents/Github/GameEngine/ExamPracNight/Content/Characters/Zombie/Animations/ZombieThrow.uasset",
+				"C:/Users/wlgns/Documents/Github/GameEngine/ExamPracNight/Content/Characters/Zombie/Mesh/Zombie_Skeleton.uasset",
+				"C:/Users/wlgns/Documents/Github/GameEngine/ExamPracNight/Content/Characters/Zombie/Animations/ZombieMontage.uasset",
+				"C:/Users/wlgns/Documents/Github/GameEngine/ExamPracNight/Content/_TEST3/Zombie.uasset",
+				"C:/Users/wlgns/Documents/Github/GameEngine/ExamPracNight/Content/_TEST3/ZombieAnimation.uasset",
+				"C:/Users/wlgns/Documents/Github/GameEngine/ExamPracNight/Content/_TEST3/DetectionInterface.uasset",
+				"C:/Users/wlgns/Documents/Github/GameEngine/ExamPracNight/Content/_TEST3/AttackableInterface.uasset",
+				"C:/Users/wlgns/Documents/Github/GameEngine/ExamPracNight/Content/_TEST3/HitInterface.uasset",
+				"C:/Users/wlgns/Documents/Github/GameEngine/ExamPracNight/Content/_TEST3/M_FrozenZombie.uasset",
+				"C:/Users/wlgns/Documents/Github/GameEngine/ExamPracNight/Content/_TEST3/MI_Iceball.uasset",
+				"C:/Users/wlgns/Documents/Github/GameEngine/ExamPracNight/Content/_TEST3/M_IceForZombie.uasset",
+				"C:/Users/wlgns/Documents/Github/GameEngine/ExamPracNight/Content/Characters/Granny/Animations/Death.uasset",
+				"C:/Users/wlgns/Documents/Github/GameEngine/ExamPracNight/Content/Characters/Granny/Animations/GrannyDeath.uasset",
+				"C:/Users/wlgns/Documents/Github/GameEngine/ExamPracNight/Content/_TEST3/moon.uasset",
+				"C:/Users/wlgns/Documents/Github/GameEngine/ExamPracNight/Content/_TEST3/BIP_Stickable.uasset",
+				"C:/Users/wlgns/Documents/Github/GameEngine/ExamPracNight/Content/_TEST3/_GENERATED/wlgns/Cone_5FB998F9.uasset",
+				"C:/Users/wlgns/Documents/Github/GameEngine/ExamPracNight/Content/_TEST3/_GENERATED/wlgns/Cylinder_F0AADE53.uasset",
+				"C:/Users/wlgns/Documents/Github/GameEngine/ExamPracNight/Content/_TEST3/BP_Flashlight.uasset"
+			]
+		}
+	]
+}

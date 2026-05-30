@@ -5,6 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/wlgns/Documents/Github/GameEngine/First/HelloUE/Content/Lec18-Material2/M_Water.uasset",
+				"C:/Users/wlgns/Documents/Github/GameEngine/First/HelloUE/Content/Lec18-Material2/M_Sea.uasset",
+				"C:/Users/wlgns/Documents/Github/GameEngine/First/HelloUE/Content/Lec18-Material2/OceanMap.umap",
+				"C:/Users/wlgns/Documents/Github/GameEngine/First/HelloUE/Content/Lec18-Material2/M_ThinGlass.uasset",
+				"C:/Users/wlgns/Documents/Github/GameEngine/First/HelloUE/Content/Lec18-Material2/M_ParentGlass.uasset",
+				"C:/Users/wlgns/Documents/Github/GameEngine/First/HelloUE/Content/Lec18-Material2/NewMaterialMap.umap",
+				"C:/Users/wlgns/Documents/Github/GameEngine/First/HelloUE/Content/Lec18-Material2/MI_RedGlass.uasset",
+				"C:/Users/wlgns/Documents/Github/GameEngine/First/HelloUE/Content/Lec18-Material2/MI_BlueGlass.uasset",
+				"C:/Users/wlgns/Documents/Github/GameEngine/First/HelloUE/Content/Lec18-Material2/MI_GreenGlass.uasset",
+				"C:/Users/wlgns/Documents/Github/GameEngine/First/HelloUE/Content/Lec22-Landscape/CheongsandoMap.umap",
+				"C:/Users/wlgns/Documents/Github/GameEngine/First/HelloUE/Content/Lec22-Landscape/M_Landscape.uasset",
 				"C:/Users/user/Documents/Unreal Projects/2022184025-GameEngine/First/HelloUE/Content/Lec19-Lighting/HDRIBackDropMap.umap",
 				"C:/Users/user/Documents/Unreal Projects/2022184025-GameEngine/First/HelloUE/Content/Lec20-Lighting2/suburban_garden_2k.uasset",
 				"C:/Users/user/Documents/Unreal Projects/2022184025-GameEngine/First/HelloUE/Content/Lec20-Lighting2/DayLightingMap.umap",
@@ -42,16 +53,7 @@
 				"C:/Users/user/Documents/GitHub/GameEngine/First/HelloUE/Content/Lec19-Lighting/LightingMap1.umap",
 				"C:/Users/user/Documents/GitHub/GameEngine/First/HelloUE/Content/Lec19-Lighting/SpotLightMap1.umap",
 				"C:/Users/user/Documents/GitHub/GameEngine/First/HelloUE/Content/Lec19-Lighting/BoxLightMap1.umap",
-				"C:/Users/wlgns/Documents/Github/GameEngine/First/HelloUE/Content/Lec18-Material2/M_Water.uasset",
-				"C:/Users/wlgns/Documents/Github/GameEngine/First/HelloUE/Content/Lec18-Material2/M_Water1.uasset",
-				"C:/Users/wlgns/Documents/Github/GameEngine/First/HelloUE/Content/Lec18-Material2/M_Sea.uasset",
-				"C:/Users/wlgns/Documents/Github/GameEngine/First/HelloUE/Content/Lec18-Material2/OceanMap.umap",
-				"C:/Users/wlgns/Documents/Github/GameEngine/First/HelloUE/Content/Lec18-Material2/M_ThinGlass.uasset",
-				"C:/Users/wlgns/Documents/Github/GameEngine/First/HelloUE/Content/Lec18-Material2/M_ParentGlass.uasset",
-				"C:/Users/wlgns/Documents/Github/GameEngine/First/HelloUE/Content/Lec18-Material2/NewMaterialMap.umap",
-				"C:/Users/wlgns/Documents/Github/GameEngine/First/HelloUE/Content/Lec18-Material2/MI_RedGlass.uasset",
-				"C:/Users/wlgns/Documents/Github/GameEngine/First/HelloUE/Content/Lec18-Material2/MI_BlueGlass.uasset",
-				"C:/Users/wlgns/Documents/Github/GameEngine/First/HelloUE/Content/Lec18-Material2/MI_GreenGlass.uasset"
+				"C:/Users/wlgns/Documents/Github/GameEngine/First/HelloUE/Content/Lec18-Material2/M_Water1.uasset"
 			]
 		}
 	]
