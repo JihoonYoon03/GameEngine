@@ -1,3 +1,2 @@
-2026/06/03-15:09:43.602 35b4 Reusing MANIFEST C:\Users\user\Documents\GitHub\GameEngine\ExamPracNight2\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/06/03-15:09:43.628 35b4 Recovering log #3
-2026/06/03-15:09:43.635 35b4 Reusing old log C:\Users\user\Documents\GitHub\GameEngine\ExamPracNight2\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/06/02-15:29:33.538 5a74 Creating DB C:\Users\user\Documents\Unreal Projects\2022184025-GameEngine\ExamPracNight2\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
+2026/06/02-15:29:33.548 5a74 Reusing MANIFEST C:\Users\user\Documents\Unreal Projects\2022184025-GameEngine\ExamPracNight2\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
