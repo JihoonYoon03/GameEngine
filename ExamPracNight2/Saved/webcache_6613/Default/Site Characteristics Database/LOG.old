@@ -1,5 +1,1 @@
-2026/06/01-22:32:47.207 89b8 Log #3: 3 ops saved to Table #4 OK
-2026/06/01-22:32:47.216 89b8 Archiving C:\Users\wlgns\Documents\Github\GameEngine\ExamPracNight2\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
-2026/06/01-22:32:47.216 89b8 Table #4: 3 entries OK
-2026/06/01-22:32:47.217 89b8 Archiving C:\Users\wlgns\Documents\Github\GameEngine\ExamPracNight2\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/06/01-22:32:47.227 89b8 **** Repaired leveldb C:\Users\wlgns\Documents\Github\GameEngine\ExamPracNight2\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 244 bytes. Some data may have been lost. ****
+2026/06/01-22:32:47.234 89b8 Reusing MANIFEST C:\Users\wlgns\Documents\Github\GameEngine\ExamPracNight2\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
