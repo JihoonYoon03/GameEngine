@@ -1,3 +1,9 @@
+<<<<<<< Updated upstream
 2026/06/02-10:22:59.770 55c0 Reusing MANIFEST C:\Users\user\Documents\Unreal Projects\2022184025-GameEngine\ExamPracNight\Saved\webcache_6613_1\Default\Local Storage\leveldb/MANIFEST-000001
 2026/06/02-10:22:59.775 55c0 Recovering log #3
 2026/06/02-10:22:59.777 55c0 Reusing old log C:\Users\user\Documents\Unreal Projects\2022184025-GameEngine\ExamPracNight\Saved\webcache_6613_1\Default\Local Storage\leveldb/000003.log 
+=======
+2026/06/02-23:58:11.216 70f0 Reusing MANIFEST C:\Users\wlgns\Documents\Github\GameEngine\ExamPracNight\Saved\webcache_6613_1\Default\Local Storage\leveldb/MANIFEST-000001
+2026/06/02-23:58:11.226 70f0 Recovering log #3
+2026/06/02-23:58:11.229 70f0 Reusing old log C:\Users\wlgns\Documents\Github\GameEngine\ExamPracNight\Saved\webcache_6613_1\Default\Local Storage\leveldb/000003.log 
+>>>>>>> Stashed changes

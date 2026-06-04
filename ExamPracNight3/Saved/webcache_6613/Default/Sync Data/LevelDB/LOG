@@ -1,2 +1,7 @@
+<<<<<<< Updated upstream
 2026/06/03-15:37:21.399 34f8 Creating DB C:\Users\user\Documents\GitHub\GameEngine\ExamPracNight3\Saved\webcache_6613\Default\Sync Data\LevelDB since it was missing.
 2026/06/03-15:37:21.435 34f8 Reusing MANIFEST C:\Users\user\Documents\GitHub\GameEngine\ExamPracNight3\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+=======
+2026/06/02-22:15:14.494 3a64 Creating DB C:\Users\wlgns\Documents\Github\GameEngine\ExamPracNight3\Saved\webcache_6613\Default\Sync Data\LevelDB since it was missing.
+2026/06/02-22:15:14.522 3a64 Reusing MANIFEST C:\Users\wlgns\Documents\Github\GameEngine\ExamPracNight3\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+>>>>>>> Stashed changes

@@ -1,2 +1,8 @@
+<<<<<<< Updated upstream
 2026/06/02-10:03:24.976 1a90 Creating DB C:\Users\user\Documents\Unreal Projects\2022184025-GameEngine\ExamPracNight\Saved\webcache_6613_1\Default\Session Storage since it was missing.
 2026/06/02-10:03:24.997 1a90 Reusing MANIFEST C:\Users\user\Documents\Unreal Projects\2022184025-GameEngine\ExamPracNight\Saved\webcache_6613_1\Default\Session Storage/MANIFEST-000001
+=======
+2026/06/02-00:32:16.622 7874 Reusing MANIFEST C:\Users\wlgns\Documents\Github\GameEngine\ExamPracNight\Saved\webcache_6613_1\Default\Session Storage/MANIFEST-000001
+2026/06/02-00:32:16.623 7874 Recovering log #3
+2026/06/02-00:32:16.626 7874 Reusing old log C:\Users\wlgns\Documents\Github\GameEngine\ExamPracNight\Saved\webcache_6613_1\Default\Session Storage/000003.log 
+>>>>>>> Stashed changes

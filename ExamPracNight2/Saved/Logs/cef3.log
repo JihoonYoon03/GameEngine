@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 [13396:18488:0602/152933.433:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
 [13396:18488:0602/152933.447:ERROR:os_crypt_win.cc(100)] Failed to decrypt: 키를 지정된 상태에서 사용하기에 부적합합니다. (0x8009000B)
 [13396:1412:0602/152933.468:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
@@ -12,3 +13,17 @@
 [14024:20020:0602/152937.509:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-139FE559B0C971E7408541752F41E041 will be ignored
 [13396:19696:0602/152940.718:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\user\Documents\Unreal Projects\2022184025-GameEngine\ExamPracNight2\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\user\Documents\Unreal Projects\2022184025-GameEngine\ExamPracNight2\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
 [13396:18488:0602/153019.566:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+=======
+[13120:18276:0603/002813.651:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[13120:14252:0603/002813.693:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[13120:18276:0603/002813.703:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[13120:5816:0603/002815.390:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\wlgns\Documents\Github\GameEngine\ExamPracNight2\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\wlgns\Documents\Github\GameEngine\ExamPracNight2\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[13120:5816:0603/002815.395:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\wlgns\Documents\Github\GameEngine\ExamPracNight2\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\wlgns\Documents\Github\GameEngine\ExamPracNight2\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[13120:5816:0603/002815.398:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\wlgns\Documents\Github\GameEngine\ExamPracNight2\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\wlgns\Documents\Github\GameEngine\ExamPracNight2\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[13120:5816:0603/002815.400:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\wlgns\Documents\Github\GameEngine\ExamPracNight2\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\wlgns\Documents\Github\GameEngine\ExamPracNight2\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[13120:25112:0603/002815.655:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[13120:25112:0603/002815.657:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25540:24040:0603/002816.325:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-64B02DD3DDA80142FF544FFB27FC9128 will be ignored
+[13120:22792:0603/002821.062:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\wlgns\Documents\Github\GameEngine\ExamPracNight2\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\wlgns\Documents\Github\GameEngine\ExamPracNight2\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[13120:18276:0603/010240.791:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+>>>>>>> Stashed changes

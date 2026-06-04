@@ -1,2 +1,8 @@
+<<<<<<< Updated upstream
 2026/06/02-10:03:20.765 1a90 Creating DB C:\Users\user\Documents\Unreal Projects\2022184025-GameEngine\ExamPracNight\Saved\webcache_6613_1\Default\Local Storage\leveldb since it was missing.
 2026/06/02-10:03:20.778 1a90 Reusing MANIFEST C:\Users\user\Documents\Unreal Projects\2022184025-GameEngine\ExamPracNight\Saved\webcache_6613_1\Default\Local Storage\leveldb/MANIFEST-000001
+=======
+2026/06/02-00:32:13.374 7874 Reusing MANIFEST C:\Users\wlgns\Documents\Github\GameEngine\ExamPracNight\Saved\webcache_6613_1\Default\Local Storage\leveldb/MANIFEST-000001
+2026/06/02-00:32:13.379 7874 Recovering log #3
+2026/06/02-00:32:13.382 7874 Reusing old log C:\Users\wlgns\Documents\Github\GameEngine\ExamPracNight\Saved\webcache_6613_1\Default\Local Storage\leveldb/000003.log 
+>>>>>>> Stashed changes
