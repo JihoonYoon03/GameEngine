@@ -1,59 +1,13 @@
-<<<<<<< Updated upstream
-[16200:7100:0609/153037.844:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[16200:6128:0609/153037.881:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[16200:7100:0609/153037.899:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[16200:7100:0609/153039.608:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
-[16200:6324:0609/153039.609:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\user\Documents\Unreal Projects\2022184025-GameEngine\First\HelloUE\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\user\Documents\Unreal Projects\2022184025-GameEngine\First\HelloUE\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[16200:6324:0609/153039.611:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\user\Documents\Unreal Projects\2022184025-GameEngine\First\HelloUE\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\user\Documents\Unreal Projects\2022184025-GameEngine\First\HelloUE\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[16200:6324:0609/153039.613:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\user\Documents\Unreal Projects\2022184025-GameEngine\First\HelloUE\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\user\Documents\Unreal Projects\2022184025-GameEngine\First\HelloUE\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[16200:23512:0609/153039.616:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\user\Documents\Unreal Projects\2022184025-GameEngine\First\HelloUE\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\user\Documents\Unreal Projects\2022184025-GameEngine\First\HelloUE\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[16200:10336:0609/153039.895:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[16200:10336:0609/153039.897:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[15804:8980:0609/153040.691:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-D44D3C8EE6D91D29DDB5327414993507 will be ignored
-[16200:18480:0609/153042.493:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
-[16200:7100:0609/153042.525:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[16200:7100:0609/153042.525:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[16200:7100:0609/153042.525:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[16200:7100:0609/153042.525:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[16200:18480:0609/153042.529:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[16200:9588:0609/153044.071:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\user\Documents\Unreal Projects\2022184025-GameEngine\First\HelloUE\Saved\webcache_6613_1\Default\GCM Store\Encryption: IO error: C:\Users\user\Documents\Unreal Projects\2022184025-GameEngine\First\HelloUE\Saved\webcache_6613_1\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[16680:14420:0609/153044.195:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[16680:14420:0609/153044.440:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[16680:3308:0609/153044.445:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[16680:3308:0609/153044.445:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[16680:3308:0609/153044.445:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[14036:12712:0609/153044.466:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
-[14036:12712:0609/153044.469:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[14036:12712:0609/153044.469:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[14036:12712:0609/153044.469:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[16680:3308:0609/153044.469:WARNING:stun_port.cc(442)] Port[87bc00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[16680:3308:0609/153044.470:WARNING:stun_port.cc(442)] Port[14c4400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[16680:3308:0609/153044.470:WARNING:stun_port.cc(442)] Port[dce800:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[16200:7100:0609/170142.977:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
-=======
-[27252:26848:0614/164152.715:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[27252:28656:0614/164152.767:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[27252:26848:0614/164152.787:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[18472:30552:0614/164156.091:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-8FEC3369FBC9AA1BE3C73F0129AA667F will be ignored
-[27252:44788:0614/164156.448:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[27252:26848:0614/164156.475:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[27252:26848:0614/164156.476:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[27252:26848:0614/164156.476:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[27252:26848:0614/164156.476:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[27252:44788:0614/164156.516:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[35500:23532:0614/164157.498:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-57F930741A429F07935CE9EF10641239 will be ignored
-[5936:37700:0614/164157.643:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[8980:36100:0614/164158.807:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[8980:36100:0614/164159.366:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[8980:4336:0614/164159.386:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[8980:4336:0614/164159.386:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[8980:4336:0614/164159.387:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[23392:2228:0614/164159.403:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
-[23392:2228:0614/164159.405:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[23392:2228:0614/164159.405:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[23392:2228:0614/164159.405:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[8980:4336:0614/164159.405:WARNING:stun_port.cc(442)] Port[4fb8400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[8980:4336:0614/164159.405:WARNING:stun_port.cc(442)] Port[4fb8c00:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[8980:4336:0614/164159.405:WARNING:stun_port.cc(442)] Port[4fb9400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[27252:26848:0614/164223.158:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
->>>>>>> Stashed changes
+[46732:24088:0614/164403.488:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[46732:17828:0614/164403.533:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[46732:24088:0614/164403.540:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[46732:34780:0614/164405.494:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\wlgns\Documents\Github\GameEngine\First\HelloUE\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\wlgns\Documents\Github\GameEngine\First\HelloUE\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[46732:34780:0614/164405.501:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\wlgns\Documents\Github\GameEngine\First\HelloUE\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\wlgns\Documents\Github\GameEngine\First\HelloUE\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[46732:34780:0614/164405.504:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\wlgns\Documents\Github\GameEngine\First\HelloUE\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\wlgns\Documents\Github\GameEngine\First\HelloUE\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[46732:34780:0614/164405.507:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\wlgns\Documents\Github\GameEngine\First\HelloUE\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\wlgns\Documents\Github\GameEngine\First\HelloUE\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[46732:17828:0614/164405.956:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[46732:17828:0614/164405.958:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[31256:20688:0614/164407.020:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-0F39AD5F7BFB13246452A6007A5A86FA will be ignored
+[36544:23876:0614/164408.492:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-0B809CF88C17A227BEA1002158659946 will be ignored
+[2884:48380:0614/164408.578:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[46732:24088:0614/221737.440:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
